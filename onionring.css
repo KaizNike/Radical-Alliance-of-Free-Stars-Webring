@@ -17,6 +17,37 @@
 
 #rad-allies-free-stars table tr td {
   padding: 15px; /* creates some space between the links and text inside the widget */
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    color: red;
+  }
+  12.5% {
+    color: orange;
+  }
+  25% {
+    color: yellow;
+  }
+  37.5% {
+    color: green;
+  }
+  50% {
+    color: blue;
+  }
+  62.5% {
+    color: indigo;
+  }
+  75% {
+    color: violet;
+  }
+  87.5% {
+    color: magenta;
+  }
+  100% {
+    color: red;
+  }
 }
 
 #rad-allies-free-stars .webring-prev {
