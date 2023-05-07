@@ -58,6 +58,10 @@
    text-align:center;
 }
 
+#rad-allies-free-stars .webring-info tr td {
+    animation: rainbow 5s linear infinite;
+}
+
 #rad-allies-free-stars .webring-next {
   text-align:left;
 }
