@@ -15,7 +15,7 @@ var sites = [
 ];
 
 //the name of the ring
-var ringName = 'The Radical Alliance of Free Stars Webring';
+var ringName = 'The Radical Alliance of Free Stars';
 
 /* the unique ID of the widget. two things to note:
  1) make sure there are no spaces in it - use dashes or underscores if you must
