@@ -16,8 +16,9 @@
 }
 
 #rad-allies-free-stars table tr td {
-  padding: 15px; /* creates some space between the links and text inside the widget */
-  animation: rainbow 5s linear infinite;
+    padding: 15px; /* creates some space between the links and text inside the widget */
+    position: relative;
+    animation: rainbow 5s linear infinite, shake 2s linear infinite;
 }
 
 @keyframes rainbow {
@@ -50,6 +51,18 @@
   }
 }
 
+@keyframes shake {
+  0%, 100% {
+    left: 0px;
+  }
+  25%, 75% {
+    left: 10px;
+  }
+    50% {
+        left: -10px;
+    }
+}
+
 #rad-allies-free-stars .webring-prev {
   text-align:right;
 }
@@ -59,7 +72,8 @@
 }
 
 #rad-allies-free-stars .webring-info tr td {
-    animation: rainbow 5s linear infinite;
+    animation: rainbow 5s linear infinite, shake 2s linear infinite;
+    position: relative;
 }
 
 #rad-allies-free-stars .webring-next {
