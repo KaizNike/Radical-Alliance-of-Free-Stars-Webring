@@ -1,6 +1,8 @@
 # Radical-Alliance-of-Free-Stars-Webring
 With the fall of the Yesterweb webring, new rings will rise - this one promotes open expression and nonviolence.
 
+View the site on this [link: https://kaiznike.github.io/Radical-Alliance-of-Free-Stars-Webring/](https://kaiznike.github.io/Radical-Alliance-of-Free-Stars-Webring/)
+
 ## Joining!
 So you've spent too much time as a solitary star upon a lawless sky, let's work on that!
 
