@@ -45,7 +45,8 @@ else {
   indexText = ""
   //if you've chosen to include an index, this builds the link to that
   if (useIndex) {
-    indexText = `<a href='${indexPage}'>index</a> | `;
+    // indexText = `<a href='${indexPage}'>index</a> | `;
+	  indexText = `<a href='${indexPage}'><img src='${indexBanner}'></a> | `;
   }
 
   randomText = ""

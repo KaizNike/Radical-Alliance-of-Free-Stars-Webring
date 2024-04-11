@@ -17,6 +17,14 @@ Our technology of choice is [Onion Ring](https://garlic.garden/onionring/). Cont
 
 If you know how this website we run on this local planet works, go ahead and submit a issue declaring yourself, or check yourself into the discussion boards.
 
+### New Option
+Another way of joining is linking to this page via a banner like this one: ![RAD Webring Banner - Free Stars](.//Projects/RAFSicn.gif)
+You can download and link it with the following. Assuming the banner is not in a folder.
+
+```
+<a href="https://kaiznike.github.io/Radical-Alliance-of-Free-Stars-Webring/"><img src="RAFSicn.gif"></a>
+```
+
 ## Our Rules:
 Members are free to be part of worlds with varying cultures, our one rule of cool is that humanity is not to be harmed, physically or mentally. We grant similar fronds to those capable of expression, no matter how small or big. Birds are friends too, do not believe their propaganda.
 

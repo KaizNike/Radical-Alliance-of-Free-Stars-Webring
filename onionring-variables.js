@@ -29,3 +29,5 @@ var indexPage = 'https://kaiznike.github.io/Radical-Alliance-of-Free-Stars-Webri
 
 //should the widget include a random button?
 var useRandom = true;
+
+var indexBanner = indexPage + "Projects/RAFSicon.gif"
