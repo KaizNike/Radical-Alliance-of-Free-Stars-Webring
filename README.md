@@ -18,11 +18,11 @@ Our technology of choice is [Onion Ring](https://garlic.garden/onionring/). Cont
 If you know how this website we run on this local planet works, go ahead and submit a issue declaring yourself, or check yourself into the discussion boards.
 
 ### New Option
-Another way of joining is linking to this page via a banner like this one: ![RAD Webring Banner - Free Stars](.//Projects/RAFSicn.gif)
+Another way of joining is linking to this page via a banner like this one: ![RAD Webring Banner - Free Stars](./Projects/RAFSicon.gif)
 You can download and link it with the following. Assuming the banner is not in a folder.
 
 ```
-<a href="https://kaiznike.github.io/Radical-Alliance-of-Free-Stars-Webring/"><img src="RAFSicn.gif"></a>
+<a href="https://kaiznike.github.io/Radical-Alliance-of-Free-Stars-Webring/"><img src="RAFSicon.gif"></a>
 ```
 
 ## Our Rules:
